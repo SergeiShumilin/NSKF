@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  25 OCT 2018 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  31 OCT 2018 18:24
 entering extended mode
 **./main-ru.tex
 (main-ru.tex
@@ -825,31 +825,31 @@ LaTeX Warning: Unused global option(s):
 (main-ru.aux)
 \openout1 = `main-ru.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring ON on input line 65.
-LaTeX Info: Redefining \ref on input line 65.
-LaTeX Info: Redefining \pageref on input line 65.
-LaTeX Info: Redefining \nameref on input line 65.
+Package hyperref Info: Link coloring ON on input line 72.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
  (main-ru.out) (main-ru.out)
 \@outlinefile=\write3
 \openout3 = `main-ru.out'.
@@ -890,9 +890,9 @@ G,.JBIG2,.JB2,.eps]
 
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 66.
+Package hyperref Warning: Ignoring empty anchor on input line 73.
 
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 66.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 73.
 
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.
@@ -901,33 +901,33 @@ File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
 LaTeX Font Warning: Font shape `T2A/cmss/m/sc' in size <6> not available
-(Font)              Font shape `T2A/cmr/m/sc' tried instead on input line 66.
+(Font)              Font shape `T2A/cmr/m/sc' tried instead on input line 73.
 
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 66.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 73.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 66.
+LaTeX Font Info:    No file OMScmss.fd. on input line 73.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/sc' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 66.
+(Font)              using `OMS/cmsy/m/n' instead on input line 73.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 66.
+(Font)              using `OMS/cmsy/m/n' instead on input line 73.
 
 
-Overfull \hbox (1.82588pt too wide) in paragraph at lines 66--66
+Overfull \hbox (1.82588pt too wide) in paragraph at lines 73--73
  \T2A/cmr/m/n/8 оп-ти-ми-за-ци-ей, ис-поль-зу-е-мой дл€ со-зда-ни€ вы-со-ко-эф-
 фек-тив-но-го па-рал-лель- 
  []
 
 
-Overfull \hbox (8.81738pt too wide) in paragraph at lines 70--73
+Overfull \hbox (8.81738pt too wide) in paragraph at lines 77--80
 \T2A/cmr/m/n/10 пред-ва-ри-тель-ной под-кач-ки дан-ных из па-м€-ти, AVX-512ER (
 Exponential
  []
 
 
-Overfull \hbox (7.15665pt too wide) in paragraph at lines 70--73
+Overfull \hbox (7.15665pt too wide) in paragraph at lines 77--80
 \T2A/cmr/m/n/10 Skylake. ¬ сле-ду-ю-щих по-ко-ле-ни-€х про-цес-со-ров на-бор ин
 -струк-ций AVX-
  []
@@ -936,8 +936,8 @@ Overfull \hbox (7.15665pt too wide) in paragraph at lines 70--73
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \let 
-l.98 \begin{tabular}
-                    {| c | c |}
+l.105 \begin{tabular}
+                     {| c | c |}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -946,29 +946,29 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 
-Overfull \hbox (27.33809pt too wide) in paragraph at lines 98--119
+Overfull \hbox (27.33809pt too wide) in paragraph at lines 105--126
  [] 
  []
 
 <pics/pic_shell_code.pdf, id=65, 627.09282pt x 527.72156pt>
 File: pics/pic_shell_code.pdf Graphic file (type pdf)
 <use pics/pic_shell_code.pdf>
-Package pdftex.def Info: pics/pic_shell_code.pdf  used on input line 127.
+Package pdftex.def Info: pics/pic_shell_code.pdf  used on input line 134.
 (pdftex.def)             Requested size: 227.62204pt x 191.54982pt.
 [3]
 <pics/pic_decomposition.pdf, id=86, 572.1375pt x 423.83344pt>
 File: pics/pic_decomposition.pdf Graphic file (type pdf)
 <use pics/pic_decomposition.pdf>
-Package pdftex.def Info: pics/pic_decomposition.pdf  used on input line 141.
+Package pdftex.def Info: pics/pic_decomposition.pdf  used on input line 148.
 (pdftex.def)             Requested size: 284.52756pt x 210.77797pt.
  [4 <./pics/pic_shell_code.pdf>]
 <pics/pic_shell_cfg.pdf, id=105, 672.26157pt x 335.75438pt>
 File: pics/pic_shell_cfg.pdf Graphic file (type pdf)
 <use pics/pic_shell_cfg.pdf>
-Package pdftex.def Info: pics/pic_shell_cfg.pdf  used on input line 155.
+Package pdftex.def Info: pics/pic_shell_cfg.pdf  used on input line 162.
 (pdftex.def)             Requested size: 284.52756pt x 142.10199pt.
 
-Overfull \hbox (2.24115pt too wide) in paragraph at lines 160--168
+Overfull \hbox (2.24115pt too wide) in paragraph at lines 167--175
 []\T2A/cmr/m/n/10 ‘ункци€ shell_sort_k_i_w, по-€вив-ша-€-с€ по-сле де-ком-по-зи
 -ции ал-
  []
@@ -977,38 +977,38 @@ Overfull \hbox (2.24115pt too wide) in paragraph at lines 160--168
 <pics/pic_shell_code_vect.pdf, id=131, 783.67781pt x 527.72156pt>
 File: pics/pic_shell_code_vect.pdf Graphic file (type pdf)
 <use pics/pic_shell_code_vect.pdf>
-Package pdftex.def Info: pics/pic_shell_code_vect.pdf  used on input line 170.
+Package pdftex.def Info: pics/pic_shell_code_vect.pdf  used on input line 177.
 (pdftex.def)             Requested size: 284.52756pt x 191.59814pt.
  [6 <./pics/pic_shell_cfg.pdf>] [7 <./pics/pic_shell_code_vect.pdf>] [8] [9]
 <pics/experimental_eff.pdf, id=203, 1387.58403pt x 711.13678pt>
 File: pics/experimental_eff.pdf Graphic file (type pdf)
 <use pics/experimental_eff.pdf>
-Package pdftex.def Info: pics/experimental_eff.pdf  used on input line 244.
+Package pdftex.def Info: pics/experimental_eff.pdf  used on input line 251.
 (pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
 <pics/theoretical_eff.pdf, id=204, 1387.58403pt x 711.13678pt>
 File: pics/theoretical_eff.pdf Graphic file (type pdf)
 <use pics/theoretical_eff.pdf>
-Package pdftex.def Info: pics/theoretical_eff.pdf  used on input line 250.
+Package pdftex.def Info: pics/theoretical_eff.pdf  used on input line 257.
 (pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
 <pics/pic_shell_k_4.pdf, id=205, 462.52798pt x 346.89601pt>
 File: pics/pic_shell_k_4.pdf Graphic file (type pdf)
 <use pics/pic_shell_k_4.pdf>
-Package pdftex.def Info: pics/pic_shell_k_4.pdf  used on input line 256.
+Package pdftex.def Info: pics/pic_shell_k_4.pdf  used on input line 263.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 <pics/pic_shell_k_15.pdf, id=206, 462.52798pt x 346.89601pt>
 File: pics/pic_shell_k_15.pdf Graphic file (type pdf)
 <use pics/pic_shell_k_15.pdf>
-Package pdftex.def Info: pics/pic_shell_k_15.pdf  used on input line 262.
+Package pdftex.def Info: pics/pic_shell_k_15.pdf  used on input line 269.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 <pics/pic_hibbard_k_3.pdf, id=207, 462.52798pt x 346.89601pt>
 File: pics/pic_hibbard_k_3.pdf Graphic file (type pdf)
 <use pics/pic_hibbard_k_3.pdf>
-Package pdftex.def Info: pics/pic_hibbard_k_3.pdf  used on input line 268.
+Package pdftex.def Info: pics/pic_hibbard_k_3.pdf  used on input line 275.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 <pics/pic_hibbard_k_15.pdf, id=208, 462.52798pt x 346.89601pt>
 File: pics/pic_hibbard_k_15.pdf Graphic file (type pdf)
 <use pics/pic_hibbard_k_15.pdf>
-Package pdftex.def Info: pics/pic_hibbard_k_15.pdf  used on input line 274.
+Package pdftex.def Info: pics/pic_hibbard_k_15.pdf  used on input line 281.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 
 Underfull \vbox (badness 2088) has occurred while \output is active []
@@ -1029,13 +1029,13 @@ tiple pdfs with page group included in a single page
 \openout4 = `main-ru.brf'.
 
 
-Overfull \hbox (8.08281pt too wide) in paragraph at lines 293--297
+Overfull \hbox (8.08281pt too wide) in paragraph at lines 300--304
  \T2A/cmr/m/n/9 turbine using highly parallel CFD simulations. High Performance
  Computing 
  []
 
 
-Overfull \hbox (4.21278pt too wide) in paragraph at lines 297--301
+Overfull \hbox (4.21278pt too wide) in paragraph at lines 304--308
  []\T2A/cmr/m/n/9 Fu H.H., Liao J.F., Yang J.Z., et al. The Sunway TaihuLight s
 upercomputer: 
  []
@@ -1045,44 +1045,44 @@ upercomputer:
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{cite.test}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{cite.test}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{cite.test}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{cite.test}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{cite.test}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      ]pdfTeX warning (ext4): destination with the same identifi
 er (name{cite.test}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.325 \RBibitem{test}
+l.332 \RBibitem{test}
                      
-Overfull \hbox (1.77013pt too wide) in paragraph at lines 325--329
+Overfull \hbox (1.77013pt too wide) in paragraph at lines 332--336
  []\T2A/cmr/m/n/9 Jeffers J., Reinders J., Sodani A. Intel Xeon Phi processor h
 igh performance 
  []
@@ -1091,14 +1091,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.test}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.329 \RBibitem{test}
+l.336 \RBibitem{test}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{cite.test}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.333 \RBibitem{test}
+l.340 \RBibitem{test}
                      
-Overfull \hbox (2.34206pt too wide) in paragraph at lines 333--337
+Overfull \hbox (2.34206pt too wide) in paragraph at lines 340--344
  \T2A/cmr/m/n/9 2015. URL: https://software.intel.com/en-us/articles/intel-c-co
 mpiler-160- 
  []
@@ -1106,9 +1106,9 @@ mpiler-160-
 <pics/nobody.pdf, id=450, 446.66875pt x 598.235pt>
 File: pics/nobody.pdf Graphic file (type pdf)
 <use pics/nobody.pdf>
-Package pdftex.def Info: pics/nobody.pdf  used on input line 339.
+Package pdftex.def Info: pics/nobody.pdf  used on input line 346.
 (pdftex.def)             Requested size: 71.13188pt x 95.26314pt.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 339
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 346
 .
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.
@@ -1117,7 +1117,7 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 File: pics/nobody.pdf Graphic file (type pdf)
 <use pics/nobody.pdf>
-Package pdftex.def Info: pics/nobody.pdf  used on input line 339.
+Package pdftex.def Info: pics/nobody.pdf  used on input line 346.
 (pdftex.def)             Requested size: 71.13188pt x 95.26314pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1127,26 +1127,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.339 \end{document}
+l.346 \end{document}
                      <./pics/nobody.pdf>] [15]
 
-Package hyperref Warning: Ignoring empty anchor on input line 339.
+Package hyperref Warning: Ignoring empty anchor on input line 346.
 
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 339.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 346.
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <6> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 339.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 346.
 
 [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
  (main-ru.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
 Package rerunfilecheck Info: File `main-ru.out' has not changed.
 (rerunfilecheck)             Checksum: 073CD63E7B4F71F2C0E8CA28391B6B72;1803.
 Package rerunfilecheck Info: File `main-ru.brf' has not changed.
@@ -1157,10 +1157,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16171 strings out of 492973
- 228860 string characters out of 3126249
- 356365 words of memory out of 3000000
- 19582 multiletter control sequences out of 15000+200000
+ 16177 strings out of 492973
+ 229184 string characters out of 3126249
+ 357494 words of memory out of 3000000
+ 19588 multiletter control sequences out of 15000+200000
  40929 words of font info for 80 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
  45i,17n,40p,7396b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1219,9 +1219,9 @@ s/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6
 onts/cm/cmsy7.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main-ru.pdf (16 pages, 909949 bytes).
+Output written on main-ru.pdf (16 pages, 927659 bytes).
 PDF statistics:
- 1502 PDF objects out of 1728 (max. 8388607)
+ 1559 PDF objects out of 1728 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
  112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

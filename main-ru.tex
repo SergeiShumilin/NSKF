@@ -35,19 +35,23 @@
 \end{abstract}
 
 % Все метаданные должны также присутствовать на английском языке, 
+
 % заключённые в  \selectlanguage{english}...,\selectlanguage{russian}: 
 
 \selectlanguage{english} 
 % All the same in English 
-\title[Short title]{The Full Engish Title}
+\title[Study of the efficiency of vectorization]{Study of the efficiency of vectorization of loop nests with an irregular number of iterations}
 % Last name, coma other names 
-\author{Family Name,Other Names}
+\author{Rybakov,Alexey}
 % Organisation, where the work done
-\address{University}
+\address{Joint Supercomputer Center of the Russian Academy of Sciences - branch of Scientific Research Institute of System Analysis of the Russian Academy of Sciences, Leninsky prospect 32a, Moscow, 119334, Russia}
 % author email
-\email{}
+\email{rybakov.aax@gmail.com}
 % support notes
-\thanks{}
+
+\author{Shumilin,Sergei}
+\email{shumilin@jscc.ru}
+\thanks{uuu}
 % Other information about author only on paper language 
 %\info{} %
 % author photo
@@ -56,7 +60,10 @@
 % Repeat the same fore each of other authors
 %
 \begin{abstract}
-The abstract in English should come here.
+Computation vectorization is an important low-level optimization used to create highly efficient parallel code.
+However, when used in context with an unknown program execution profile,  a danger of low effectiveness of the application emerges.
+This is especially pronounced when vectorizing nests of cycles with an irregular number of iterations of the inner loop.
+The article discusses a comparison of the theoretical and practical efficiency of vectorization on the example of Shell sorting, since this program code is extremely inconvenient from the point of view of vectorization.
 \end{abstract}
 \selectlanguage{russian} % Не забывайте отметить возврат на русский язык
 % Для локального переключения на другой язык используйте команду 
