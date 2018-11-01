@@ -13,17 +13,22 @@
 \address{Межведомственный суперкомпьютерный центр Российской академии наук - филиал Федерального государственного учреждения <<Федеральный научный центр Научно-исследовательский институт системных исследований Российской академии наук>> (МСЦ РАН - филиал ФГУ ФНЦ НИИСИ РАН)}
 \email{rybakov@jscc.ru}
 \thanks{TODO}
-\info{TODO}
-\image{pics/nobody}
+\info{Рыбаков Алексей Анатольевич - к ф.-м. н., внс МСЦ РАН -
+филиала ФГУ ФНЦ НИИСИ РАН.Области научных интересов
+- математическое моделирование задач газовой динамики с
+использованием суперкомпьютеров, методы построения и
+управления расчетными сетками, дискретная математика,
+теория графов, модели случайных графов, параллельное
+программирование, функциональное программирование.}
+\image{pics/Rybakov_photo}
 \orcid{0000-0002-9755-8830}    
 
 \author{Шумилин, Сергей Сергеевич}
 \address{Межведомственный суперкомпьютерный центр Российской академии наук - филиал Федерального государственного учреждения <<Федеральный научный центр Научно-исследовательский институт системных исследований Российской академии наук>> (МСЦ РАН - филиал ФГУ ФНЦ НИИСИ РАН)}
 \email{shumilin@jscc.ru}
 \thanks{TODO}
-\info{TODO}
-%\image{shumilin}
-\image{pics/nobody}
+\info{Шумилин Сергей Сергеевич, старший инженер МСЦ РАН - филиала ФГУ ФНЦ НИИСИ РАН. Область научных интересов: машинное обучение, анализ данных, алгоритмы, параллельное программирование.}
+\image{pics/Shumilin_photo}
 \orcid{0000-0002-3953-7054}    
 
 \keywords{векторизация, AVX-512, гнезда циклов с нерегулярным числом итераций, сортировка Шелла, теоретическое ускорение}
@@ -42,16 +47,16 @@
 % All the same in English 
 \title[Study of the efficiency of vectorization]{Study of the efficiency of vectorization of loop nests with an irregular number of iterations}
 % Last name, coma other names 
-\author{Rybakov,Alexey}
+\author{Rybakov,A. A.}
 % Organisation, where the work done
 \address{Joint Supercomputer Center of the Russian Academy of Sciences - branch of Scientific Research Institute of System Analysis of the Russian Academy of Sciences, Leninsky prospect 32a, Moscow, 119334, Russia}
 % author email
 \email{rybakov.aax@gmail.com}
 % support notes
 
-\author{Shumilin,Sergei}
+\author{Shumilin,S. S.}
 \email{shumilin@jscc.ru}
-\thanks{uuu}
+\thanks{}
 % Other information about author only on paper language 
 %\info{} %
 % author photo
@@ -63,7 +68,7 @@
 Computation vectorization is an important low-level optimization used to create highly efficient parallel code.
 However, when used in context with an unknown program execution profile,  a danger of low effectiveness of the application emerges.
 This is especially pronounced when vectorizing nests of cycles with an irregular number of iterations of the inner loop.
-The article discusses a comparison of the theoretical and practical efficiency of vectorization on the example of Shell sorting, since this program code is extremely inconvenient from the point of view of vectorization.
+The article discusses a comparison of the theoretical and practical efficiency of vectorization on the example of Shell sorting, since this program code is extremely inconvenient for vectorization.
 \end{abstract}
 \selectlanguage{russian} % Не забывайте отметить возврат на русский язык
 % Для локального переключения на другой язык используйте команду 
@@ -234,7 +239,7 @@ TODO.
 
 
 TODO.
-Также можно проанализировать гистограммы распределения количества итераций внутреннего цикла для фиксированного значения $k$. 
+Проанализируем гистограммы распределения количества итераций внутреннего цикла для фиксированного значения $k$. 
 Из гистограмм, приведенных на Рис.\ref{pic:shell_k_4}, Рис.\ref{pic:shell_k_15}, Рис.\ref{pic:hibbard_k_3}, Рис.\ref{pic:hibbard_k_15} видно, что при переходе к векторизованной версии кода меняется характер распределения, и количество выполнений внутреннего цикла с малым количеством итераций резко сокращается. 
 Таким образом, выполнения внутренних циклов с малым количеством итераций расворяются в векторизованном коде, что снижает его производительность.
 Стоит отметить, что для последовательности Шелла в сортировке с использованием векторизованного кода количество итераций равное двум встречается с максимальной частотностью. 
