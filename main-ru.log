@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  2 NOV 2018 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  29 NOV 2018 14:09
 entering extended mode
 **./main-ru.tex
 (main-ru.tex
@@ -926,13 +926,13 @@ Package amsrefs Warning: Use of \cites is recommended instead of \cite
 (amsrefs)                for multiple cites 'compiler_guide, intrinsic_guide' o
 n input line 89.
 
-
-Overfull \hbox (11.24342pt too wide) in paragraph at lines 89--94
-\T2A/cmr/m/n/10 ций, схо-жие по струк-ту-ре. Функ-ции swizzle, shuffle, permute
- и permutevar
- []
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 91.
 
 
+("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.
+fd"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 Underfull \vbox (badness 1648) has occurred while \output is active []
 
  [2]
@@ -953,73 +953,70 @@ Overfull \hbox (27.33809pt too wide) in paragraph at lines 110--131
  [] 
  []
 
-<pics/pic_shell_code.pdf, id=75, 627.09282pt x 527.72156pt>
+<pics/pic_shell_code.pdf, id=76, 627.09282pt x 527.72156pt>
 File: pics/pic_shell_code.pdf Graphic file (type pdf)
 <use pics/pic_shell_code.pdf>
 Package pdftex.def Info: pics/pic_shell_code.pdf  used on input line 139.
 (pdftex.def)             Requested size: 227.62204pt x 191.54982pt.
 [3]
-<pics/pic_decomposition.pdf, id=96, 572.1375pt x 423.83344pt>
+<pics/pic_decomposition.pdf, id=97, 572.1375pt x 423.83344pt>
 File: pics/pic_decomposition.pdf Graphic file (type pdf)
 <use pics/pic_decomposition.pdf>
 Package pdftex.def Info: pics/pic_decomposition.pdf  used on input line 153.
 (pdftex.def)             Requested size: 284.52756pt x 210.77797pt.
  [4 <./pics/pic_shell_code.pdf>]
-<pics/pic_shell_cfg.pdf, id=115, 672.26157pt x 335.75438pt>
+<pics/pic_shell_cfg.pdf, id=116, 672.26157pt x 335.75438pt>
 File: pics/pic_shell_cfg.pdf Graphic file (type pdf)
 <use pics/pic_shell_cfg.pdf>
 Package pdftex.def Info: pics/pic_shell_cfg.pdf  used on input line 167.
 (pdftex.def)             Requested size: 284.52756pt x 142.10199pt.
-
-Overfull \hbox (2.24115pt too wide) in paragraph at lines 172--180
-[]\T2A/cmr/m/n/10 Функция shell_sort_k_i_w, по-явив-ша-я-ся по-сле де-ком-по-зи
--ции ал-
- []
-
-[5 <./pics/pic_decomposition.pdf>]
-<pics/pic_shell_code_vect.pdf, id=142, 783.67781pt x 527.72156pt>
+ [5 <./pics/pic_decomposition.pdf>]
+<pics/pic_shell_code_vect.pdf, id=143, 783.67781pt x 527.72156pt>
 File: pics/pic_shell_code_vect.pdf Graphic file (type pdf)
 <use pics/pic_shell_code_vect.pdf>
 Package pdftex.def Info: pics/pic_shell_code_vect.pdf  used on input line 182.
 (pdftex.def)             Requested size: 284.52756pt x 191.59814pt.
- [6 <./pics/pic_shell_cfg.pdf>] [7 <./pics/pic_shell_code_vect.pdf>] [8] [9]
-<pics/experimental_eff.pdf, id=219, 1387.58403pt x 711.13678pt>
-File: pics/experimental_eff.pdf Graphic file (type pdf)
-<use pics/experimental_eff.pdf>
-Package pdftex.def Info: pics/experimental_eff.pdf  used on input line 254.
-(pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
-<pics/theoretical_eff.pdf, id=220, 1387.58403pt x 711.13678pt>
+ [6 <./pics/pic_shell_cfg.pdf>] [7 <./pics/pic_shell_code_vect.pdf>] [8]
+<pics/theoretical_eff.pdf, id=209, 1387.58403pt x 711.13678pt>
 File: pics/theoretical_eff.pdf Graphic file (type pdf)
 <use pics/theoretical_eff.pdf>
-Package pdftex.def Info: pics/theoretical_eff.pdf  used on input line 260.
+Package pdftex.def Info: pics/theoretical_eff.pdf  used on input line 246.
 (pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
-<pics/pic_shell_k_4.pdf, id=221, 462.52798pt x 346.89601pt>
+<pics/experimental_eff.pdf, id=210, 1387.58403pt x 711.13678pt>
+File: pics/experimental_eff.pdf Graphic file (type pdf)
+<use pics/experimental_eff.pdf>
+Package pdftex.def Info: pics/experimental_eff.pdf  used on input line 252.
+(pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
+<pics/pic_shell_k_4.pdf, id=211, 462.52798pt x 346.89601pt>
 File: pics/pic_shell_k_4.pdf Graphic file (type pdf)
 <use pics/pic_shell_k_4.pdf>
-Package pdftex.def Info: pics/pic_shell_k_4.pdf  used on input line 266.
+Package pdftex.def Info: pics/pic_shell_k_4.pdf  used on input line 261.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
-<pics/pic_shell_k_15.pdf, id=222, 462.52798pt x 346.89601pt>
+<pics/pic_shell_k_15.pdf, id=212, 462.52798pt x 346.89601pt>
 File: pics/pic_shell_k_15.pdf Graphic file (type pdf)
 <use pics/pic_shell_k_15.pdf>
-Package pdftex.def Info: pics/pic_shell_k_15.pdf  used on input line 272.
+Package pdftex.def Info: pics/pic_shell_k_15.pdf  used on input line 267.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
-<pics/pic_hibbard_k_3.pdf, id=223, 462.52798pt x 346.89601pt>
+<pics/pic_hibbard_k_3.pdf, id=213, 462.52798pt x 346.89601pt>
 File: pics/pic_hibbard_k_3.pdf Graphic file (type pdf)
 <use pics/pic_hibbard_k_3.pdf>
-Package pdftex.def Info: pics/pic_hibbard_k_3.pdf  used on input line 278.
+Package pdftex.def Info: pics/pic_hibbard_k_3.pdf  used on input line 273.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
-<pics/pic_hibbard_k_15.pdf, id=224, 462.52798pt x 346.89601pt>
+<pics/pic_hibbard_k_15.pdf, id=214, 462.52798pt x 346.89601pt>
 File: pics/pic_hibbard_k_15.pdf Graphic file (type pdf)
 <use pics/pic_hibbard_k_15.pdf>
-Package pdftex.def Info: pics/pic_hibbard_k_15.pdf  used on input line 284.
+Package pdftex.def Info: pics/pic_hibbard_k_15.pdf  used on input line 279.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 
-Underfull \vbox (badness 2088) has occurred while \output is active []
+Overfull \hbox (3.07317pt too wide) in paragraph at lines 284--288
+[]\T2A/cmr/m/n/10 Противоположностью по-сле-до-ва-тель-но-сти Сэдж-ви-ка яв-ля-
+ет-ся по-
+ []
 
- [10 <./pics/experimental_eff.pdf> <./pics/theoretical_eff.pdf
+[9] [10 <./pics/theoretical_eff.pdf> <./pics/experimental_eff.pdf
 
-pdfTeX warning: pdflatex (file ./pics/theoretical_eff.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./pics/experimental_eff.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 >] [11 <./pics/pic_shell_k_4.pdf> <./pics/pic_shell_k_15.pdf
 
 pdfTeX warning: pdflatex (file ./pics/pic_shell_k_15.pdf): PDF inclusion: multi
@@ -1032,72 +1029,64 @@ tiple pdfs with page group included in a single page
 \openout4 = `main-ru.brf'.
 
 
-Overfull \hbox (1.77013pt too wide) in paragraph at lines 306--310
+Overfull \hbox (1.77013pt too wide) in paragraph at lines 302--306
  []\T2A/cmr/m/n/9 Jeffers J., Reinders J., Sodani A. Intel Xeon Phi processor h
 igh performance 
  []
 
 
-Overfull \hbox (2.34206pt too wide) in paragraph at lines 310--314
+Overfull \hbox (2.34206pt too wide) in paragraph at lines 306--310
  \T2A/cmr/m/n/9 2015. URL: https://software.intel.com/en-us/articles/intel-c-co
 mpiler-160- 
  []
 
 
-Overfull \hbox (1.20065pt too wide) in paragraph at lines 314--319
+Overfull \hbox (1.20065pt too wide) in paragraph at lines 310--315
  []\T2A/cmr/m/n/9 Intel Intrinsics Guide. URL: https://software.intel.com/sites
 /landingpage/ 
  []
 
-
-Overfull \hbox (2.95976pt too wide) in paragraph at lines 335--339
+[13]
+Overfull \hbox (2.95976pt too wide) in paragraph at lines 331--335
  []\T2A/cmr/m/n/9 A033622, по-сле-до-ва-тель-ность Седж-ви-ка. URL: https://oei
 s.org/A033622 
  []
 
-[13]
 <pics/Rybakov_photo.png, id=467, 134.5025pt x 180.675pt>
 File: pics/Rybakov_photo.png Graphic file (type png)
 <use pics/Rybakov_photo.png>
-Package pdftex.def Info: pics/Rybakov_photo.png  used on input line 340.
+Package pdftex.def Info: pics/Rybakov_photo.png  used on input line 336.
 (pdftex.def)             Requested size: 71.13188pt x 95.55052pt.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 340
-.
-
-("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.
-fd"
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 <pics/Shumilin_photo.png, id=470, 283.0575pt x 360.34625pt>
 File: pics/Shumilin_photo.png Graphic file (type png)
 <use pics/Shumilin_photo.png>
-Package pdftex.def Info: pics/Shumilin_photo.png  used on input line 340.
+Package pdftex.def Info: pics/Shumilin_photo.png  used on input line 336.
 (pdftex.def)             Requested size: 71.13188pt x 90.5537pt.
 
-Overfull \hbox (4.53723pt too wide) in paragraph at lines 340--340
+Overfull \hbox (4.53723pt too wide) in paragraph at lines 336--336
 \T2A/cmr/m/n/9 Шумилин Сер-гей Сер-ге-е-вич, стар-ший ин-же-нер МСЦ РАН
  []
 
 [14 <./pics/Rybakov_photo.png (PNG copy)> <./pics/Shumilin_photo.png (PNG copy)
 >]
 
-Package hyperref Warning: Ignoring empty anchor on input line 340.
+Package hyperref Warning: Ignoring empty anchor on input line 336.
 
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 340.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 336.
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <6> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 340.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 336.
 
 [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 340.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 340.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
  (main-ru.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 340.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 340.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
 Package rerunfilecheck Info: File `main-ru.out' has not changed.
 (rerunfilecheck)             Checksum: 073CD63E7B4F71F2C0E8CA28391B6B72;1803.
 
@@ -1113,13 +1102,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16218 strings out of 492973
- 229847 string characters out of 3126249
- 358481 words of memory out of 3000000
- 19621 multiletter control sequences out of 15000+200000
- 40929 words of font info for 80 fonts, out of 3000000 for 9000
+ 16223 strings out of 492973
+ 229909 string characters out of 3126249
+ 359493 words of memory out of 3000000
+ 19625 multiletter control sequences out of 15000+200000
+ 41239 words of font info for 81 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
- 45i,17n,40p,7396b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,17n,40p,7396b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc0600.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecss0600.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
@@ -1142,42 +1131,43 @@ lati0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
 a\dpi600\lati1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \lh\lh-t2a\dpi600\larm0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\
 pk\ljfour\lh\lh-t2a\dpi600\lacc0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc0600.pk> <C:\Users\Sergei\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass0600.pk> <C:\Users\Sergei\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk> <C:\Users\Se
-rgei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1000.pk> <C:
-\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm100
+.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1000.pk> <C:\Users\Sergei\AppData\Local
+\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc0600.pk> <C:\Users\Sergei\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass0600.pk> <C:\Users\Se
+rgei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk> <C:
+\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx100
 0.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
-0\lasx1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
-t2a\dpi600\lass0700.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\lh\lh-t2a\dpi600\lati0800.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Sergei\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc0800.pk> <C:\Users\Sergei\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\Sergei\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <C:\Users\
-Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0600.pk> <
-C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi360\larm1
-000.pk><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmex10.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Sergei/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sergei/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/U
-sers/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr5.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Sergei/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sergei/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/User
-s/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy7.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main-ru.pdf (15 pages, 1190148 bytes).
+0\larm1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
+t2a\dpi600\lasx1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\lh\lh-t2a\dpi600\lass0700.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\lh\lh-t2a\dpi600\lati0800.pk> <C:\Users\Sergei\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Sergei\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc0800.pk> <C:\Users\Sergei\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\
+Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk> <
+C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0
+600.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
+360\larm1000.pk><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmex10.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sergei/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Sergei/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
+/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.
+pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr5.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Sergei/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Sergei/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Se
+rgei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy6.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Sergei/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main-ru.pdf (15 pages, 1196562 bytes).
 PDF statistics:
- 1567 PDF objects out of 1728 (max. 8388607)
+ 1586 PDF objects out of 1728 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
