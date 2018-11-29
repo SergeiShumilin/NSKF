@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  29 NOV 2018 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  29 NOV 2018 18:55
 entering extended mode
 **./main-ru.tex
 (main-ru.tex
@@ -969,7 +969,7 @@ Package pdftex.def Info: pics/pic_decomposition.pdf  used on input line 153.
 File: pics/pic_shell_cfg.pdf Graphic file (type pdf)
 <use pics/pic_shell_cfg.pdf>
 Package pdftex.def Info: pics/pic_shell_cfg.pdf  used on input line 167.
-(pdftex.def)             Requested size: 284.52756pt x 142.10199pt.
+(pdftex.def)             Requested size: 312.9803pt x 156.31372pt.
  [5 <./pics/pic_decomposition.pdf>]
 <pics/pic_shell_code_vect.pdf, id=143, 783.67781pt x 527.72156pt>
 File: pics/pic_shell_code_vect.pdf Graphic file (type pdf)
@@ -1029,64 +1029,58 @@ tiple pdfs with page group included in a single page
 \openout4 = `main-ru.brf'.
 
 
-Overfull \hbox (1.77013pt too wide) in paragraph at lines 302--306
- []\T2A/cmr/m/n/9 Jeffers J., Reinders J., Sodani A. Intel Xeon Phi processor h
-igh performance 
- []
-
-
-Overfull \hbox (2.34206pt too wide) in paragraph at lines 306--310
+Overfull \hbox (2.34206pt too wide) in paragraph at lines 312--316
  \T2A/cmr/m/n/9 2015. URL: https://software.intel.com/en-us/articles/intel-c-co
 mpiler-160- 
  []
 
 
-Overfull \hbox (1.20065pt too wide) in paragraph at lines 310--315
+Overfull \hbox (1.20065pt too wide) in paragraph at lines 316--321
  []\T2A/cmr/m/n/9 Intel Intrinsics Guide. URL: https://software.intel.com/sites
 /landingpage/ 
  []
 
 [13]
-Overfull \hbox (2.95976pt too wide) in paragraph at lines 331--335
+Overfull \hbox (2.95976pt too wide) in paragraph at lines 348--352
  []\T2A/cmr/m/n/9 A033622, по-сле-до-ва-тель-ность Седж-ви-ка. URL: https://oei
 s.org/A033622 
  []
 
-<pics/Rybakov_photo.png, id=467, 134.5025pt x 180.675pt>
+<pics/Rybakov_photo.png, id=468, 134.5025pt x 180.675pt>
 File: pics/Rybakov_photo.png Graphic file (type png)
 <use pics/Rybakov_photo.png>
-Package pdftex.def Info: pics/Rybakov_photo.png  used on input line 336.
+Package pdftex.def Info: pics/Rybakov_photo.png  used on input line 353.
 (pdftex.def)             Requested size: 71.13188pt x 95.55052pt.
-<pics/Shumilin_photo.png, id=470, 283.0575pt x 360.34625pt>
+<pics/Shumilin_photo.png, id=471, 283.0575pt x 360.34625pt>
 File: pics/Shumilin_photo.png Graphic file (type png)
 <use pics/Shumilin_photo.png>
-Package pdftex.def Info: pics/Shumilin_photo.png  used on input line 336.
+Package pdftex.def Info: pics/Shumilin_photo.png  used on input line 353.
 (pdftex.def)             Requested size: 71.13188pt x 90.5537pt.
 
-Overfull \hbox (4.53723pt too wide) in paragraph at lines 336--336
+Overfull \hbox (4.53723pt too wide) in paragraph at lines 353--353
 \T2A/cmr/m/n/9 Шумилин Сер-гей Сер-ге-е-вич, стар-ший ин-же-нер МСЦ РАН
  []
 
 [14 <./pics/Rybakov_photo.png (PNG copy)> <./pics/Shumilin_photo.png (PNG copy)
 >]
 
-Package hyperref Warning: Ignoring empty anchor on input line 336.
+Package hyperref Warning: Ignoring empty anchor on input line 353.
 
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 336.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 353.
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <6> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 336.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 353.
 
 [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
  (main-ru.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 353.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
 Package rerunfilecheck Info: File `main-ru.out' has not changed.
 (rerunfilecheck)             Checksum: 073CD63E7B4F71F2C0E8CA28391B6B72;1803.
 
@@ -1108,7 +1102,7 @@ Here is how much of TeX's memory you used:
  19625 multiletter control sequences out of 15000+200000
  41239 words of font info for 81 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
- 45i,17n,40p,7396b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,17n,40p,7396b,566s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc0600.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecss0600.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
@@ -1127,8 +1121,8 @@ a\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx0700.pk> <C:\Users\Serg
 ei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi525\latt0800.pk> <C:\U
 sers\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx0900.
 pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\
-lati0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
-a\dpi600\lati1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+lati1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
+a\dpi600\lati0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \lh\lh-t2a\dpi600\larm0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\
 pk\ljfour\lh\lh-t2a\dpi600\lacc0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2
 .9\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1000.pk> <C:\Users\Sergei\AppData\Local
@@ -1165,9 +1159,9 @@ rgei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 blic/amsfonts/cm/cmsy7.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Sergei/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main-ru.pdf (15 pages, 1196562 bytes).
+Output written on main-ru.pdf (15 pages, 1205553 bytes).
 PDF statistics:
- 1586 PDF objects out of 1728 (max. 8388607)
+ 1612 PDF objects out of 1728 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

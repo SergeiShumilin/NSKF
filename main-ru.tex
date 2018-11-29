@@ -65,7 +65,7 @@
 % Repeat the same fore each of other authors
 %
 \begin{abstract}
-vectorization of computation is an important low-level optimization used to create highly efficient parallel code.
+Vectorization of computation is an important low-level optimization used to create highly efficient parallel code.
 However, when used in context with an unknown program execution profile, a danger of low effectiveness of the application emerges.
 This is especially pronounced when vectorizing nests of cycles with an irregular number of iterations of the inner loop.
 The article discusses a comparison of the theoretical and practical efficiency of vectorization on the example of Shell sorting, since this program code is extremely inconvenient for vectorization.
@@ -164,7 +164,7 @@ $k_i =
 Наличие участков кода с шириной векторизации менее 16 приводит к неоптимальному результирующему коду, однако есть более опасная причина низкой эффективности векторизации.
 
 \begin{figure}
-\includegraphics[width=10cm]{pics/pic_shell_cfg}
+\includegraphics[width=11cm]{pics/pic_shell_cfg}
 \caption{Схема перевода тела внутреннего цикла сортировки Шелла в предикатную форму}
 \label{pic:shell_cfg}
 \end{figure}
@@ -282,7 +282,7 @@ T_v = \sum_{k \in ks}
 \end{figure}
 
 Противоположностью последовательности Сэджвика является последовательность шагов Пратта, содержащая всевозможные шаги вида $2^i3^j$.
-Во-первых эта последовательность очень длинная и содержит сразу 8 значений, которые меньше максимальной ширины векторизации, что негативно сказывается на производительности.
+Во-первых, эта последовательность очень длинная и содержит сразу 8 значений, которые меньше максимальной ширины векторизации, что негативно сказывается на производительности.
 Во-вторых, срезы, индуцированные такими шагами, являются принципиально сильно коррелирующими, это приводит к нерегулярному снижению количества итераций во внутреннем цикле невекторизованной версии.
 В итоге мы имеем очень непостоянный график как теоретического, так и и экспериментального ускорения, с низкой эффективностью векторизации и резкими провалами, опускающимися даже ниже единицы.
 
@@ -293,44 +293,61 @@ T_v = \sum_{k \in ks}
 Такие свойства характерны прежде всего для дискретных задач, к числу которых относятся задачи сортировки, комбинаторики и перечисления.
 При использовании векторизации для таких задач характер их исполнения должен быть оценен отдельно в каждом конкретном случае для избежания неожиданной деградации эффективности программного кода.
 
+
 \begin{thebibliography}{30}
 
 \RBibitem{intel_manual}
 \by
-Intel 64 and IA-32 Architectures Software Developer's Manual. Combined volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D and 4. Intel Corporation. 2017. URL: https://software.intel.com/en-us/download/intel-64-and-ia-32-architectures-sdm-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4 (дата обращения: 18.05.2018).
+Intel 64 and IA-32 Architectures Software Developer's Manual. Combined volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D and 4. Intel Corporation. 2017. URL: https://software.intel.com/en-us/download/intel-64-and-ia-32-architectures-sdm-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4 (дата обращения: 25.10.2018)
 
-\RBibitem{Jeffers}
-\by
-Jeffers J., Reinders J., Sodani A. Intel Xeon Phi processor high performance programming. Knights Land-ing Edition. Morgan Kaufmann Publ., 2016, 632 p.
+\Bibitem{Jeffers}
+\by Jeffers James, Reinders James, Sodani Avinash 
+\book Intel Xeon Phi processor high performance programming
+\bookinfo Knights Landing Edition
+\edition 2 ed.
+\publ Morgan Kaufmann Publ.
+\yr 2016
+\totalpages 632
 
 \RBibitem{compiler_guide}
 \by
-Intel C++ Compiler 16.0 User and Reference Guide. Intel Corporation. 2015. URL: https://software.intel.com/en-us/articles/intel-c-compiler-160-for-windows-release-notes-for-intel-parallel-studio-xe-2016 (дата обращения: 25.10.2018).
+Intel C++ Compiler 16.0 User and Reference Guide. Intel Corporation. 2015. URL: https://software.intel.com/en-us/articles/intel-c-compiler-160-for-windows-release-notes-for-intel-parallel-studio-xe-2016 (дата обращения: 25.10.2018)
 
 \RBibitem{intrinsic_guide}
 \by
 Intel Intrinsics Guide. URL: https://software.intel.com/sites/landingpage/
-IntrinsicsGuide (дата обращения: 02.11.2018).
+IntrinsicsGuide (дата обращения: 02.11.2018)
 
 \RBibitem{Knuth}
-\by
-Кнут Д. Искусство программирования. Т. 3: Сортировка и поиск. M.: Вильямс, 1994. 832 c.
+\by Кнут Дональд
+\book Искусство программирования
+\bookvol 3
+\voltitle Сортировка и поиск
+\publ Вильямс
+\publaddr М.
+\yr 1994
+\totalpages 832
 
 \RBibitem{Volkonskyi}
-\by
-Волконский В.Ю., Окунев С.К. Предикатное представление как основа оптимизации программы для архитектур с явно выраженной параллельностью // Информационные технологии. № 4. 2003. C. 36–-45.
+\by Волконский В.Ю., Окунев С.К.
+\paper Предикатное представление как основа оптимизации программы для архитектур с явно выраженной параллельностью
+\jour Информационные технологии
+\yr 2003
+\issue 4
+\pages 36--45
+
 
 \RBibitem{Hib_seq}
 \by
-A168604, последовательность Хиббарда. URL: https://oeis.org/A168604 (дата обращения 02.11.18).
+A168604, последовательность Хиббарда. URL: https://oeis.org/A168604 (дата обращения 02.11.18)
 
 \RBibitem{Pratt_seq}
 \by
-A003586, последовательность Пратта. https://oeis.org/A003586 (дата обращения 02.11.18).
+A003586, последовательность Пратта. https://oeis.org/A003586 (дата обращения 02.11.18)
 
 \RBibitem{Sedjw_seq}
 \by
-A033622, последовательность Седжвика. URL: https://oeis.org/A033622 (дата обращения 02.11.18).
+A033622, последовательность Седжвика. URL: https://oeis.org/A033622 (дата обращения 02.11.18)
 
 \end{thebibliography}
 \end{document}
