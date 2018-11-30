@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  29 NOV 2018 18:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.28)  30 NOV 2018 15:16
 entering extended mode
 **./main-ru.tex
 (main-ru.tex
@@ -825,31 +825,31 @@ LaTeX Warning: Unused global option(s):
 (main-ru.aux)
 \openout1 = `main-ru.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring ON on input line 77.
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+Package hyperref Info: Link coloring ON on input line 76.
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
  (main-ru.out) (main-ru.out)
 \@outlinefile=\write3
 \openout3 = `main-ru.out'.
@@ -890,9 +890,9 @@ G,.JBIG2,.JB2,.eps]
 
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 78.
+Package hyperref Warning: Ignoring empty anchor on input line 77.
 
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 78.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 77.
 
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.
@@ -901,21 +901,21 @@ File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
 LaTeX Font Warning: Font shape `T2A/cmss/m/sc' in size <6> not available
-(Font)              Font shape `T2A/cmr/m/sc' tried instead on input line 78.
+(Font)              Font shape `T2A/cmr/m/sc' tried instead on input line 77.
 
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 78.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 77.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 78.
+LaTeX Font Info:    No file OMScmss.fd. on input line 77.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/sc' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 78.
+(Font)              using `OMS/cmsy/m/n' instead on input line 77.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 78.
+(Font)              using `OMS/cmsy/m/n' instead on input line 77.
 
 
-Overfull \hbox (1.82588pt too wide) in paragraph at lines 78--78
+Overfull \hbox (1.82588pt too wide) in paragraph at lines 77--77
  \T2A/cmr/m/n/8 оп-ти-ми-за-ци-ей, ис-поль-зу-е-мой для со-зда-ния вы-со-ко-эф-
 фек-тив-но-го па-рал-лель- 
  []
@@ -924,9 +924,9 @@ Overfull \hbox (1.82588pt too wide) in paragraph at lines 78--78
 
 Package amsrefs Warning: Use of \cites is recommended instead of \cite 
 (amsrefs)                for multiple cites 'compiler_guide, intrinsic_guide' o
-n input line 89.
+n input line 88.
 
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 91.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 90.
 
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.
@@ -939,7 +939,7 @@ Underfull \vbox (badness 1648) has occurred while \output is active []
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \let 
-l.110 \begin{tabular}
+l.109 \begin{tabular}
                      {| c | c |}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -949,68 +949,74 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 
-Overfull \hbox (27.33809pt too wide) in paragraph at lines 110--131
+Overfull \hbox (27.33809pt too wide) in paragraph at lines 109--130
  [] 
  []
 
 <pics/pic_shell_code.pdf, id=76, 627.09282pt x 527.72156pt>
 File: pics/pic_shell_code.pdf Graphic file (type pdf)
 <use pics/pic_shell_code.pdf>
-Package pdftex.def Info: pics/pic_shell_code.pdf  used on input line 139.
+Package pdftex.def Info: pics/pic_shell_code.pdf  used on input line 138.
 (pdftex.def)             Requested size: 227.62204pt x 191.54982pt.
 [3]
 <pics/pic_decomposition.pdf, id=97, 572.1375pt x 423.83344pt>
 File: pics/pic_decomposition.pdf Graphic file (type pdf)
 <use pics/pic_decomposition.pdf>
-Package pdftex.def Info: pics/pic_decomposition.pdf  used on input line 153.
+Package pdftex.def Info: pics/pic_decomposition.pdf  used on input line 152.
 (pdftex.def)             Requested size: 284.52756pt x 210.77797pt.
  [4 <./pics/pic_shell_code.pdf>]
 <pics/pic_shell_cfg.pdf, id=116, 672.26157pt x 335.75438pt>
 File: pics/pic_shell_cfg.pdf Graphic file (type pdf)
 <use pics/pic_shell_cfg.pdf>
-Package pdftex.def Info: pics/pic_shell_cfg.pdf  used on input line 167.
+Package pdftex.def Info: pics/pic_shell_cfg.pdf  used on input line 166.
 (pdftex.def)             Requested size: 312.9803pt x 156.31372pt.
  [5 <./pics/pic_decomposition.pdf>]
 <pics/pic_shell_code_vect.pdf, id=143, 783.67781pt x 527.72156pt>
 File: pics/pic_shell_code_vect.pdf Graphic file (type pdf)
 <use pics/pic_shell_code_vect.pdf>
-Package pdftex.def Info: pics/pic_shell_code_vect.pdf  used on input line 182.
+Package pdftex.def Info: pics/pic_shell_code_vect.pdf  used on input line 181.
 (pdftex.def)             Requested size: 284.52756pt x 191.59814pt.
  [6 <./pics/pic_shell_cfg.pdf>] [7 <./pics/pic_shell_code_vect.pdf>] [8]
 <pics/theoretical_eff.pdf, id=209, 1387.58403pt x 711.13678pt>
 File: pics/theoretical_eff.pdf Graphic file (type pdf)
 <use pics/theoretical_eff.pdf>
-Package pdftex.def Info: pics/theoretical_eff.pdf  used on input line 246.
+Package pdftex.def Info: pics/theoretical_eff.pdf  used on input line 245.
 (pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
 <pics/experimental_eff.pdf, id=210, 1387.58403pt x 711.13678pt>
 File: pics/experimental_eff.pdf Graphic file (type pdf)
 <use pics/experimental_eff.pdf>
-Package pdftex.def Info: pics/experimental_eff.pdf  used on input line 252.
+Package pdftex.def Info: pics/experimental_eff.pdf  used on input line 251.
 (pdftex.def)             Requested size: 284.52756pt x 145.81653pt.
 <pics/pic_shell_k_4.pdf, id=211, 462.52798pt x 346.89601pt>
 File: pics/pic_shell_k_4.pdf Graphic file (type pdf)
 <use pics/pic_shell_k_4.pdf>
-Package pdftex.def Info: pics/pic_shell_k_4.pdf  used on input line 261.
+Package pdftex.def Info: pics/pic_shell_k_4.pdf  used on input line 260.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 <pics/pic_shell_k_15.pdf, id=212, 462.52798pt x 346.89601pt>
 File: pics/pic_shell_k_15.pdf Graphic file (type pdf)
 <use pics/pic_shell_k_15.pdf>
-Package pdftex.def Info: pics/pic_shell_k_15.pdf  used on input line 267.
+Package pdftex.def Info: pics/pic_shell_k_15.pdf  used on input line 266.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 <pics/pic_hibbard_k_3.pdf, id=213, 462.52798pt x 346.89601pt>
 File: pics/pic_hibbard_k_3.pdf Graphic file (type pdf)
 <use pics/pic_hibbard_k_3.pdf>
-Package pdftex.def Info: pics/pic_hibbard_k_3.pdf  used on input line 273.
+Package pdftex.def Info: pics/pic_hibbard_k_3.pdf  used on input line 272.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 <pics/pic_hibbard_k_15.pdf, id=214, 462.52798pt x 346.89601pt>
 File: pics/pic_hibbard_k_15.pdf Graphic file (type pdf)
 <use pics/pic_hibbard_k_15.pdf>
-Package pdftex.def Info: pics/pic_hibbard_k_15.pdf  used on input line 279.
+Package pdftex.def Info: pics/pic_hibbard_k_15.pdf  used on input line 278.
 (pdftex.def)             Requested size: 227.62169pt x 170.71628pt.
 
-Overfull \hbox (3.07317pt too wide) in paragraph at lines 284--288
+Overfull \hbox (3.07317pt too wide) in paragraph at lines 283--287
 []\T2A/cmr/m/n/10 Противоположностью по-сле-до-ва-тель-но-сти Сэдж-ви-ка яв-ля-
 ет-ся по-
+ []
+
+
+Overfull \hbox (1.45917pt too wide) in paragraph at lines 283--287
+\T2A/cmr/m/n/10 пи-аль-но силь-но кор-ре-ли-ру-ю-щи-ми, это при-во-дит к нере-г
+у-ляр-но-му сни-
  []
 
 [9] [10 <./pics/theoretical_eff.pdf> <./pics/experimental_eff.pdf
@@ -1029,19 +1035,19 @@ tiple pdfs with page group included in a single page
 \openout4 = `main-ru.brf'.
 
 
-Overfull \hbox (2.34206pt too wide) in paragraph at lines 312--316
+Overfull \hbox (2.34206pt too wide) in paragraph at lines 314--318
  \T2A/cmr/m/n/9 2015. URL: https://software.intel.com/en-us/articles/intel-c-co
 mpiler-160- 
  []
 
-
-Overfull \hbox (1.20065pt too wide) in paragraph at lines 316--321
+[13]
+Overfull \hbox (1.20065pt too wide) in paragraph at lines 318--323
  []\T2A/cmr/m/n/9 Intel Intrinsics Guide. URL: https://software.intel.com/sites
 /landingpage/ 
  []
 
-[13]
-Overfull \hbox (2.95976pt too wide) in paragraph at lines 348--352
+
+Overfull \hbox (2.95976pt too wide) in paragraph at lines 350--354
  []\T2A/cmr/m/n/9 A033622, по-сле-до-ва-тель-ность Седж-ви-ка. URL: https://oei
 s.org/A033622 
  []
@@ -1049,38 +1055,38 @@ s.org/A033622
 <pics/Rybakov_photo.png, id=468, 134.5025pt x 180.675pt>
 File: pics/Rybakov_photo.png Graphic file (type png)
 <use pics/Rybakov_photo.png>
-Package pdftex.def Info: pics/Rybakov_photo.png  used on input line 353.
+Package pdftex.def Info: pics/Rybakov_photo.png  used on input line 355.
 (pdftex.def)             Requested size: 71.13188pt x 95.55052pt.
 <pics/Shumilin_photo.png, id=471, 283.0575pt x 360.34625pt>
 File: pics/Shumilin_photo.png Graphic file (type png)
 <use pics/Shumilin_photo.png>
-Package pdftex.def Info: pics/Shumilin_photo.png  used on input line 353.
+Package pdftex.def Info: pics/Shumilin_photo.png  used on input line 355.
 (pdftex.def)             Requested size: 71.13188pt x 90.5537pt.
 
-Overfull \hbox (4.53723pt too wide) in paragraph at lines 353--353
+Overfull \hbox (4.53723pt too wide) in paragraph at lines 355--355
 \T2A/cmr/m/n/9 Шумилин Сер-гей Сер-ге-е-вич, стар-ший ин-же-нер МСЦ РАН
  []
 
-[14 <./pics/Rybakov_photo.png (PNG copy)> <./pics/Shumilin_photo.png (PNG copy)
->]
+[14 <./pics/Rybakov_photo.png (PNG copy)>] [15 <./pics/Shumilin_photo.png (PNG 
+copy)>]
 
-Package hyperref Warning: Ignoring empty anchor on input line 353.
+Package hyperref Warning: Ignoring empty anchor on input line 355.
 
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 353.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 355.
 
 ("C:\Users\Sergei\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <6> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 353.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 355.
 
-[15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
+[16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
  (main-ru.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 353.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
 Package rerunfilecheck Info: File `main-ru.out' has not changed.
 (rerunfilecheck)             Checksum: 073CD63E7B4F71F2C0E8CA28391B6B72;1803.
 
@@ -1096,10 +1102,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16223 strings out of 492973
- 229909 string characters out of 3126249
- 359493 words of memory out of 3000000
- 19625 multiletter control sequences out of 15000+200000
+ 16214 strings out of 492973
+ 229685 string characters out of 3126249
+ 360430 words of memory out of 3000000
+ 19615 multiletter control sequences out of 15000+200000
  41239 words of font info for 81 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
  45i,17n,40p,7396b,566s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1126,9 +1132,9 @@ a\dpi600\lati0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \lh\lh-t2a\dpi600\larm0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\
 pk\ljfour\lh\lh-t2a\dpi600\lacc0900.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2
 .9\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1000.pk> <C:\Users\Sergei\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc0600.pk> <C:\Users\Sergei\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass0600.pk> <C:\Users\Se
-rgei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk> <C:
+\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk> <C:\Users\Sergei\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc0600.pk> <C:\Users\Se
+rgei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass0600.pk> <C:
 \Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx100
 0.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
 0\larm1000.pk> <C:\Users\Sergei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
@@ -1159,9 +1165,9 @@ rgei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 blic/amsfonts/cm/cmsy7.pfb><C:/Users/Sergei/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Sergei/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main-ru.pdf (15 pages, 1205553 bytes).
+Output written on main-ru.pdf (16 pages, 1207230 bytes).
 PDF statistics:
- 1612 PDF objects out of 1728 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
+ 1617 PDF objects out of 1728 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
